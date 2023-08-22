@@ -1,7 +1,6 @@
+The school is open!
 #!/bin/bash
 C^
-echo "ALX"
-echo "School"
-C ^
+echo "The school is open!"
 
 
